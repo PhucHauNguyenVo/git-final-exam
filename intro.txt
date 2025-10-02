@@ -1,0 +1,16 @@
+Xin chào, tôi là Nguyễn Võ Phúc Hậu.
+Tôi là sinh viên ngành Công nghệ thông tin tại Đại học Nam Cần Thơ.
+Mình học Git để quản lý mã nguồn hiệu quả hơn.
+Mục tiêu của mình là thành thạo Git và GitHub.
+Mình muốn áp dụng kỹ năng này vào các dự án thực tế.
+
+Sở thích:
+- Nghe nhạc
+- Lập trình
+- Du lịch
+
+Kỹ năng:
+- C#
+- SQL
+- Linux cơ bản
+
